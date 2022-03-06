@@ -1,2 +1,2 @@
 # Discord-voice-recorder-plugin
-Integration of an button with the abilities to record an channel
+Integration of a button to record a specific channel
